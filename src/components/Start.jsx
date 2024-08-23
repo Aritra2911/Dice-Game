@@ -8,7 +8,7 @@ const Start = ({toggle}) => {
         
         <div className='content'>
             <H>Make your Fortune!</H>
-            <Button onClick={toggle}>Let's Gamble</Button>
+            <Button onClick={toggle}>Try your luck</Button>
         </div>
       </Container>
   )
