@@ -7,7 +7,7 @@ const Start = ({toggle}) => {
         <div><Img src="/images/dice.png" alt="" /></div>
         
         <div className='content'>
-            <H>Make your Fortune!</H>
+            <H>Fate Roller</H>
             <Button onClick={toggle}>Try your luck</Button>
         </div>
       </Container>
